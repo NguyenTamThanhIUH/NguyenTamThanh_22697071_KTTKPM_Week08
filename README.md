@@ -2,4 +2,4 @@
 - Nguyễn Tâm Thành
 - Khổng Văn Tám
 - Phạm Minh Hiếu
-- Phạm Tăng Hoàn
+- Phạm Tăng Hoàng
